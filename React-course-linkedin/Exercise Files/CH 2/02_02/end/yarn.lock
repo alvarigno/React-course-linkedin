@@ -1682,9 +1682,9 @@ currently-unhandled@^0.4.1:
   dependencies:
     array-find-index "^1.0.1"
 
-custom-react-scripts@0.0.23:
-  version "0.0.23"
-  resolved "https://registry.yarnpkg.com/custom-react-scripts/-/custom-react-scripts-0.0.23.tgz#8161cf23fc155f663df9df1485623f59b9822b1a"
+custom-react-scripts@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/custom-react-scripts/-/custom-react-scripts-1.0.0.tgz#8161cf23fc155f663df9df1485623f59b9822b1a"
   dependencies:
     autoprefixer "6.5.1"
     babel-core "6.17.0"
